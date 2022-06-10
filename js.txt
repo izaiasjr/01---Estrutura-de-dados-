@@ -1,0 +1,25 @@
+java 
+git : script.js
+
+
+<body>
+    
+    <script src="script.js"></script>
+</body>
+
+
+let grupo3 = "Luccas, Welder, Luciana, Mariana, Beatriz, Izaias e Daniel"
+
+console.log (grupo3)
+
+let quantidade = 7;
+
+
+let quantidade = 7;
+
+
+let anoatual = 2022;
+
+
+console.log (anoatual - quantidade);
+
